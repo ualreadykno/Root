@@ -1,3 +1,7 @@
+<!doctype>
+<HTML>
+<Readme>
+
 # Built application files
 *.apk
 *.ap_
@@ -42,7 +46,7 @@ captures/
 .idea/libraries
 .idea/caches
 
-# Keystore files
+# Keystore files.readme.orca
 # Uncomment the following line if you do not want to check your keystore files in.
 #*.jks
 
@@ -50,11 +54,12 @@ captures/
 .externalNativeBuild
 
 # Google Services (e.g. APIs or Firebase)
-google-services.json
+google-services.json.xml.html.sgml.xhtml
+
 
 # Freeline
 freeline.py
-freeline/
+freeline/token
 freeline_project_description.json
 
 # fastlane
@@ -62,4 +67,4 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
-fastlane/readme.md
+fastlane/readme.me
